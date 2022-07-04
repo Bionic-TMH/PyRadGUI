@@ -1,0 +1,7 @@
+Pillow==8.0.1
+PyYAML==5.1
+pydicom==2.1.2
+numpy==1.19.5
+tqdm==4.63.0
+pyradiomics==3.0.1
+tk==0.1.0
