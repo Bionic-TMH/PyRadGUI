@@ -35,4 +35,4 @@ python -m pip install -r requirements.txt
 1. Download the zip file which contains all the  packages pre-installed in it.
 2. Unzip the file using either 7z or winzip software.
 3. Locate to the unzipped folder and click on the PyRadGUI.exe file to start the program.
-4. ## Running the code
+
