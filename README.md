@@ -27,7 +27,7 @@ tk==0.1.0
 3. Install the required python packages using
 
 ```bash 
-python -m pip install package-name
+python -m pip install -r requirements.txt
 ```
 4. After succesfull installation, you can start the tool by typing 'python PyRadGUI.py' from the terminal.
 
