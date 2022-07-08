@@ -22,7 +22,7 @@ tk==0.1.0
 **Option 1:**
 1. Download and install python from https://www.python.org/downloads/
 
-2. Download and install plastimatch from https://plastimatch.org/
+2. Download and install plastimatch from http://plastimatch.org/
 
 3. Install the required python packages using
 
