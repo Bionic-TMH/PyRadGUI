@@ -32,7 +32,7 @@ def check_executable(executable):
         print("Plastimatch  found: '%s'", executable,
                      executable_path)
     else:
-        print("Plastimatch not found, please install from https://plastimatch.org/", executable)
+        print("Plastimatch not found, please install from http://plastimatch.org/", executable)
     return executable_path 
 plasti=check_executable('plastimatch')
 print(plasti,'$$$$$$$$')
